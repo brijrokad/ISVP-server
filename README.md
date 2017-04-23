@@ -1,3 +1,6 @@
+## Run s.py to start the server. 
+
+
 Interpreter Requirements:-
 
 1. Python 3.5 interpreter (Only) - { sometimes 2 interpreters causes issue }
